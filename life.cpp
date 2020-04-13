@@ -1,6 +1,3 @@
-//Conway's game of life
-//April, 2020. in memory of his passing
-//Chen Lin
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
